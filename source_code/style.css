@@ -1,0 +1,66 @@
+.highlight {
+  border-radius: 0.4rem;
+  color: white;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+.bold {
+  padding-left: 1rem;
+  font-weight: 700;
+}
+.blue {
+  background-color: lightcoral;
+}
+.red {
+  background-color: lightblue;
+}
+
+#root > div:nth-child(1) > div > div > div > div > section.css-1lcbmhc.e1fqkh3o0 > div.css-1aumxhk.e1fqkh3o1 > div.block-container.css-hx4lkt.eknhn3m2 > div:nth-child(1) > div:nth-child(6) > div > button{
+  box-sizing: border-box;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  background-color: transparent;
+  border: 2px solid #e74c3c;
+  border-radius: 0.6em;
+  color: #e74c3c;
+  cursor: pointer;
+  display: flex;
+  align-self: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1;
+  margin: 20px;
+  padding: 1.2em 2.8em;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+#root > div:nth-child(1) > div > div > div > div > section.css-1lcbmhc.e1fqkh3o0 > div.css-1aumxhk.e1fqkh3o1 > div.block-container.css-hx4lkt.eknhn3m2 > div:nth-child(1) > div:nth-child(6) > div > button:hover, #root > div:nth-child(1) > div > div > div > div > section.css-1lcbmhc.e1fqkh3o0 > div.css-1aumxhk.e1fqkh3o1 > div.block-container.css-hx4lkt.eknhn3m2 > div:nth-child(1) > div:nth-child(6) > div > button:focus {
+  color: #fff;
+  outline: 0;
+}
+#root > div:nth-child(1) > div > div > div > div > section.css-1lcbmhc.e1fqkh3o0 > div.css-1aumxhk.e1fqkh3o1 > div.block-container.css-hx4lkt.eknhn3m2 > div:nth-child(1) > div:nth-child(6) > div > button {
+  transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+}
+#root > div:nth-child(1) > div > div > div > div > section.css-1lcbmhc.e1fqkh3o0 > div.css-1aumxhk.e1fqkh3o1{
+  
+  margin: 0;
+  padding: 0;
+  width: 300px;
+  height: 100%;
+  background: #2c3e50;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+}
+.css-1v3fvcr {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    overflow: auto;
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: lightGreen;
+}
